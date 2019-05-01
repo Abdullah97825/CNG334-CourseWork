@@ -13,8 +13,6 @@ public class BankingApp {
         int AccountNumber, amount;
         String owner, firstName, surname;
 
-        Methods functions = new Methods();
-
         /* Since no network programming is allowed, we can't receive the values from the client */
 
         /* To do:
@@ -41,9 +39,10 @@ public class BankingApp {
         //test value for amount, will be recieved from the client
         amount = 50;
 
-        //Threads will be implemented instead of "functions" in the future
-        functions.deposit(amount, userAccount1);
-        functions.withdraw(amount, userAccount1);
+        //Threads will start automatically since start() was called in the constructor
+        Deposit deposit = new Deposit(amount, userAccount1);                    //Balance = 100
+        Deposit deposit2 = new Deposit(amount, userAccount1);                   //Balance = 150
+        Withdraw withdraw = new Withdraw(amount, userAccount1);                 //Balance = 100
 
 
     }

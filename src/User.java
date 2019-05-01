@@ -50,6 +50,7 @@ public class User {
         else {
             bankAccount.setBalance((temp - amount));
             newTransaction(amount * -1);
+            System.out.println("Successfully withdrew.");
         }
     }
 

@@ -1,4 +1,4 @@
-
+//Thread that will be responsible for calling Deposit function in User
 public class Deposit extends Thread {
 
     private double amount;
@@ -9,11 +9,13 @@ public class Deposit extends Thread {
         this.amount = amount;
         this.userAccount = userAccount;
 
+        //Start the thread
         start();
     }
 
     public void run(){
         userAccount.deposit(amount);
+        System.out.println("Successfully deposited.");
     }
 
 }
