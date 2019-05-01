@@ -16,8 +16,8 @@
       <file leaf-file-name="BankingApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BankingApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+            <state relative-caret-position="646">
+              <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
               <folding>
                 <element signature="e#0#1418#0" expanded="true" />
               </folding>
@@ -61,22 +61,9 @@
       <file leaf-file-name="BankAccount.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BankAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="45">
               <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-              <folding>
-                <element signature="e#596#597#0" expanded="false" />
-                <element signature="e#634#635#0" expanded="false" />
-                <element signature="e#686#687#0" expanded="false" />
-                <element signature="e#729#730#0" expanded="false" />
-                <element signature="e#774#775#0" expanded="false" />
-                <element signature="e#807#808#0" expanded="false" />
-                <element signature="e#860#861#0" expanded="false" />
-                <element signature="e#890#891#0" expanded="false" />
-                <element signature="e#931#932#0" expanded="false" />
-                <element signature="e#967#968#0" expanded="false" />
-                <element signature="e#1003#1004#0" expanded="false" />
-                <element signature="e#1031#1032#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -695,12 +682,12 @@
       <updated>1555275706526</updated>
       <workItem from="1555275711718" duration="1076000" />
       <workItem from="1555332520932" duration="8687000" />
-      <workItem from="1556685022751" duration="4911000" />
+      <workItem from="1556685022751" duration="5065000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14674000" />
+    <option name="totallyTimeSpent" value="14828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -745,14 +732,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BankingApp.java</url>
-          <line>47</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
@@ -792,20 +771,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding>
-            <element signature="e#596#597#0" expanded="false" />
-            <element signature="e#634#635#0" expanded="false" />
-            <element signature="e#686#687#0" expanded="false" />
-            <element signature="e#729#730#0" expanded="false" />
-            <element signature="e#774#775#0" expanded="false" />
-            <element signature="e#807#808#0" expanded="false" />
-            <element signature="e#860#861#0" expanded="false" />
-            <element signature="e#890#891#0" expanded="false" />
-            <element signature="e#931#932#0" expanded="false" />
-            <element signature="e#967#968#0" expanded="false" />
-            <element signature="e#1003#1004#0" expanded="false" />
-            <element signature="e#1031#1032#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -814,20 +780,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding>
-            <element signature="e#596#597#0" expanded="false" />
-            <element signature="e#634#635#0" expanded="false" />
-            <element signature="e#686#687#0" expanded="false" />
-            <element signature="e#729#730#0" expanded="false" />
-            <element signature="e#774#775#0" expanded="false" />
-            <element signature="e#807#808#0" expanded="false" />
-            <element signature="e#860#861#0" expanded="false" />
-            <element signature="e#890#891#0" expanded="false" />
-            <element signature="e#931#932#0" expanded="false" />
-            <element signature="e#967#968#0" expanded="false" />
-            <element signature="e#1003#1004#0" expanded="false" />
-            <element signature="e#1031#1032#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -840,31 +793,26 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/BankAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding>
-            <element signature="e#596#597#0" expanded="false" />
-            <element signature="e#634#635#0" expanded="false" />
-            <element signature="e#686#687#0" expanded="false" />
-            <element signature="e#729#730#0" expanded="false" />
-            <element signature="e#774#775#0" expanded="false" />
-            <element signature="e#807#808#0" expanded="false" />
-            <element signature="e#860#861#0" expanded="false" />
-            <element signature="e#890#891#0" expanded="false" />
-            <element signature="e#931#932#0" expanded="false" />
-            <element signature="e#967#968#0" expanded="false" />
-            <element signature="e#1003#1004#0" expanded="false" />
-            <element signature="e#1031#1032#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/out/production/BankingApp/User.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Methods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Deposit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -880,14 +828,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Methods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -896,18 +836,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Deposit.java">
+    <entry file="file://$PROJECT_DIR$/src/BankAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        <state relative-caret-position="45">
+          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BankingApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        <state relative-caret-position="646">
+          <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
           <folding>
             <element signature="e#0#1418#0" expanded="true" />
           </folding>
