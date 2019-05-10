@@ -5,6 +5,9 @@ public class BankAccount {
     private int AccountNumber;
     private String owner;
 
+    //This variable will be used for synchronization (1 = Account is busy,  0 = Free)
+    private int Status;
+
     public BankAccount(int accountNumber, double balance, String name) {
         this.AccountNumber = accountNumber;
         this.Balance       = balance;
@@ -35,6 +38,8 @@ public class BankAccount {
         this.owner = name;
     }
 
+    public void setStatus(int status) {this.Status = status;}
+
 
     //Getters
     public double getBalance()
@@ -52,6 +57,6 @@ public class BankAccount {
         return owner;
     }
 
-
+    public int getStatus(){return Status;}
 
 }
