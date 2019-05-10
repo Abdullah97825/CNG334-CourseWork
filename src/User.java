@@ -41,7 +41,7 @@ public class User {
 
     //**************Methods*************//
     //Function that will deduct "amount" from Balance
-    public void withdraw(int amount)
+    public void withdraw(double amount)
     {
         temp = bankAccount.getBalance();
 
@@ -50,11 +50,12 @@ public class User {
         else {
             bankAccount.setBalance((temp - amount));
             newTransaction(amount * -1);
+            System.out.println("Successfully withdrew.");
         }
     }
 
     //Function that will add "amount" to Balance
-    public void deposit(int amount)
+    public void deposit(double amount)
     {
         temp = bankAccount.getBalance();
         temp += amount;
